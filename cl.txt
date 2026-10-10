@@ -9,7 +9,7 @@ Date - 6/10/2026
 - Several optimizations were made to the Dalvik heap configurations
 - Several optimizations were made to CPU and graphics performance
 - A light intensity control was added to the flashlight
-- Dolby Audio support was added, and a new UI was added
+- Dolby Audio support was added, and a new UI was added Dolby Audio support was added, and a new UI was added Dolby Audio support was added, and a new UI was added Dolby Audio support was added, and a new UI was added Dolby Audio support was added, and a new UI was added
 - Codec support, such as AC4, also continues to work
 - Support for Dolby Vision has been added
 - Some Xiaomi camera blobs have been updated
