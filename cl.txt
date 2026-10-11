@@ -1,1 +1,63 @@
-about to be populated soon
+Latest ROM Version: v4.0
+OS Version: Android 17
+Security Patch: October 1, 2026
+
+Date - 10/10/2026
+=================
+- Fixed PIF deadlock boot prevention on few devices
+- Fixed dynamic bar circle chip stlye not aligned in statusbar with other app notification icons
+- Ship Canvas prebuilt apk in Vanilla as image editor
+
+Date - 09/10/2026
+=================
+- Improve applock feature
+- Improve sandbox environment functionality and add multi-user support
+- Improve OmniJaws Weather app
+- Improve InfinitySuite layout 
+- Improvements for Bluetooth module related to LHDC
+- Add support for in-device proprietary face unlock
+
+Date - 08/10/2026
+=================
+- Add custom recent panel styles to launcher
+
+Date - 07/10/2026
+=================
+- Add launcher homescreen folder customizations (resize/grid/icon)
+- Add launcher app drawer folder support 
+- Add recents swipe gestures feature to launcher
+- Add lock/unlock app in recents feature
+- Add App drawer styles to launcher
+- More app drawer customizations for launcher
+- Fix an issue where stock app icon flashed for a second while custom icon pack in use
+- Add App rename & custom per-app icon feature
+
+Date - 06/10/2026
+=================
+- Fix issues with inverted navigation keys on landscape
+- Allow homescreen landscape rotation
+- Fix some launcher related crashes
+- Improve navigation bar compatibility with taskbar
+
+Date - 05/10/2026
+=================
+- Add support for private space face unlock enrollment
+- Tonnes of improvements for Android 17 high ram usage
+- Add custom height and color control in Pulse visualizer
+
+Date - 04/10/2026
+=================
+- Fix some issues related to dynamic bar
+- Improve dynamic bar layout and functionality
+- Make it mandatory to ask pin for shutdown/reboot on password-protected lockscreen
+
+Date - 30/09/2026
+=================
+- Fixed Always-On Display while charging
+- Fixed issues with the taskbar
+- Properly removed ongoing call and screen recording Android chips when Dynamic Island is showing
+- Removed duplicate incoming call heads-up notifications when Dynamic Island is active
+- Added back support for removing the emergency button from the power menu
+- Properly restored support for Ambient Pulse without overlapping lockscreen elements
+- Enabled blur effects on more surfaces
+- Added support for Icon Shapes
