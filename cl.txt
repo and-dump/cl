@@ -1,6 +1,18 @@
-Latest ROM Version: v4.0
+Latest ROM Version: v4.1
 OS Version: Android 17
 Security Patch: October 1, 2026
+
+Date - 12/10/2026
+=================
+- Allow user to change brightness level of Ambient display / Always ON Display.
+- Skip per process GPU memory usage trace if disabled in kernel
+- Improve themepicker on vanilla builds
+
+Date - 11/10/2026
+=================
+- Add seekbar to adjust blur intensity level
+- Fix taskbar only containing two pinned icons for Tablets
+- Fix taskbar hotseat alignment overlap
 
 Date - 10/10/2026
 =================
