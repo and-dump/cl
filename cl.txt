@@ -17,9 +17,6 @@ Date - 18/10/2026
 Date - 16/10/2026
 =================
 - Make expanded volume panel to open media output switcher box instead of extended stock volume panel.
-- Add transparent blur effects to expanded volume panel ui
-- Add transparent blur effects to lyricscard
-- Add transparent blur effects to media output switcher
 - Apply variable fonts to lyrics card
 
 Date - 12/10/2026
