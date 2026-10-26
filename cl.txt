@@ -2,6 +2,30 @@ Latest ROM Version: v4.1
 OS Version: Android 17
 Security Patch: October 1, 2026
 
+Date - 27/10/2026
+=================
+- Fix tidal app crash
+- Fix statusbar hidden while lockscreen media art is showing
+- Fix async notification inflation warning causing ui lags at some instances
+- Add support for wallpaper effects and live/pixel wallpapers even in vanilla builds
+
+Date - 26/10/2026
+=================
+- Fix keybox fetch failed error
+- Add toggle to disable custom ambient/aod brightness to allow user have auto brightness sensor supported ambient/doze brightness
+- Add more optimized / clean glass blur ui
+
+Date - 25/10/2026
+=================
+- Bring back combined Internet tile from Android 16
+- Don't force opaque app drawer background when window level blurs disabled in legacy fullscreen / oneui app drawer style
+- Fix predictive back gesture animation in InfinitySuite
+- Fix sandbox crash when the app list has no user apps
+
+Date - 24/10/2026
+=================
+- Fix transparent statusbar overlap in settings app homepage scroll
+
 Date - 20/10/2026
 =================
 - Fix Play Integrity issues due to Google's recent server-side patches (which left the user with only basic integrity)
