@@ -2,6 +2,13 @@ Latest ROM Version: v4.1
 OS Version: Android 17
 Security Patch: October 1, 2026
 
+Date - 29/10/2026
+=================
+- Fix an issue where stock app icon appeared for a second in app to homescreen transition while custom icon pack in use
+- Add feature to prevent clearing in-use app from recents panel clear all button action
+- Revamp Spoofing section
+- Fix unable to set SIM 1 ringtone on some devices
+
 Date - 27/10/2026
 =================
 - Fix tidal app crash
@@ -82,7 +89,6 @@ Date - 07/10/2026
 - Add lock/unlock app in recents feature
 - Add App drawer styles to launcher
 - More app drawer customizations for launcher
-- Fix an issue where stock app icon flashed for a second while custom icon pack in use
 - Add App rename & custom per-app icon feature
 
 Date - 06/10/2026
