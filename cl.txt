@@ -9,6 +9,10 @@ Date - 29/10/2026
 - Revamp Spoofing section
 - Fix unable to set SIM 1 ringtone on some devices
 
+Date - 28/10/2026
+=================
+- Revamp Header image settings in Material 3 Expressive and Header image improvements
+
 Date - 27/10/2026
 =================
 - Fix tidal app crash
