@@ -1,6 +1,40 @@
-Latest ROM Version: v4.1
+Latest ROM Version: v4.2
 OS Version: Android 17
-Security Patch: October 1, 2026
+Security Patch: November 1, 2026
+
+Date - 06/11/2026
+=================
+- Merged November 2026 Security Patch
+- Bump version to 4.2
+
+Date - 05/11/2026
+=================
+- Allow changing horizontal and vertical position of dynamic island chip (no more mis-aligned chips, user can customize it according to their punchhole layout)
+- Add support for dynamic island for devices with corner punchhole layout
+- Fix QS Panel lags while dynamic island active and media playing
+- Add optional toggleable feature to enable aggressive standby sleep mode to minimize idle drain
+
+Date - 06/11/2026
+=================
+- Allow disabling private dns while vpn active
+- Fix private dns tile long press opening nothing
+- Add per-connection Wi-Fi MAC address randomization option
+- Fix occassional settings wifi data usage page crash
+
+Date - 03/11/2026
+=================
+- Don't show call timer in dynamic island chip until call is not connected
+
+Date - 02/11/2026
+=================
+- Add Duck RKP provisioning feature 
+- Improve trickystore and spoofing features backend
+
+Date - 30/10/2026
+=================
+- Add feature to disable forcing dark theme on battery saver
+- Fix volume panel not showing in legacy keyguard mode
+- Fix AliPay app crash
 
 Date - 29/10/2026
 =================
