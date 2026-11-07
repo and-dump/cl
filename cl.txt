@@ -27,7 +27,6 @@ Date - 03/11/2026
 
 Date - 02/11/2026
 =================
-- Add Duck RKP provisioning feature 
 - Improve trickystore and spoofing features backend
 
 Date - 30/10/2026
