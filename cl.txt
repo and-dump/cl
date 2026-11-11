@@ -2,6 +2,18 @@ Latest ROM Version: v4.2
 OS Version: Android 17
 Security Patch: November 1, 2026
 
+Date - 10/11/2026
+=================
+- Smoothen screen off udfps unlock animation and improved unlock speed 
+
+Date - 09/11/2026
+=================
+- Fix non-working 3 button IME recent apps button after closing freeform window
+- Add per-palette chroma and tone controls for Monet customizations
+- Add Iris, Desaturate and Shutter screen off animations
+- Fix a crash edge case in long press timeout settings
+- Ignore dynamic bar/island torch events while a call is ringing
+
 Date - 06/11/2026
 =================
 - Merged November 2026 Security Patch
